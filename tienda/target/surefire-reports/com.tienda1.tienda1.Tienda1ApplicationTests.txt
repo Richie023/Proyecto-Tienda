@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tienda1.tienda1.Tienda1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.378 s - in com.tienda1.tienda1.Tienda1ApplicationTests
